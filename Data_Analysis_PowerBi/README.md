@@ -4,5 +4,11 @@
 This project addresses Seoul Temperature Analysis over the past 100 years from 1924 to 2023. It covers average temperature by year and seasonal average temperature, its trends and the warmest and coldest year. The dashboard would allow users to understand the climate change over time.
 
 ---
-<img width="697" height="587" alt="image" src="https://github.com/user-attachments/assets/6d482c8b-6bd4-496f-a648-77bbcee6ac7e" />
+## Dashboard Page 1
+<img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/19ab8613-df62-47ec-96ae-43fd715bed1e" />
 
+--
+## Dashboard Page 2
+<img width="1416" height="795" alt="image" src="https://github.com/user-attachments/assets/4f697f8d-1d0c-4157-9d6a-d99af0c48459" />
+
+--
