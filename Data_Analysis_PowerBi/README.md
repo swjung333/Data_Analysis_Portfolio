@@ -5,6 +5,7 @@ This project addresses Seoul Temperature Analysis over the past 100 years from 1
 
 ## Objectives
 Identify the warmest, coldest year over the past 100 years and the average temperature.
+
 Analyze average temperature by year and season to understand trends.
 
 
