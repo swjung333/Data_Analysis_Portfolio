@@ -1,12 +1,19 @@
-# Seoul_Temperature_Analysis
+<img width="703" height="447" alt="image" src="https://github.com/user-attachments/assets/1038c753-3a74-406a-83fa-eb64fb5f7515" /># Seoul_Temperature_Analysis
 
 ## Introduction
-This Power BI dashboard visualizes the average temperature trends in Seoul, South Korea, over the past 100 years (1924–2023) to identify long-term patterns and evidence of climate change.
+Welcome to my first report, using PowerBi. This project visualizes the average temperature trends in Seoul, South Korea, over the past 100 years (1924–2023) to identify long-term patterns and evidence of climate change.
 
 ## Objectives
 Identify the warmest, coldest year over the past 100 years and the average temperature.
 
 Analyze average temperature by year and season to understand trends.
+
+## Data Processing & Cleaning
+To visualize with graphs, a few changes were made in dataset:
+* Remove rows & Use First Row as Headers.
+* Remove columns: Removed '지점', '평균최저기온(℃)' and '평균최고기온(℃)'.
+* Create new columns: Created 'Month', ' Month Name', 'Year', 'Season' and 'Season_Index'
+* Convert the language from Korean to English for readability: Converted '년월' to 'Date' and '평균기온(℃)' to 'Average Temperature(℃)'
 
 
 ---
@@ -17,6 +24,7 @@ Analyze average temperature by year and season to understand trends.
 <img width="1416" height="795" alt="image" src="https://github.com/user-attachments/assets/4f697f8d-1d0c-4157-9d6a-d99af0c48459" />
 
 --
+
 
 ## Insights & Findings
 
