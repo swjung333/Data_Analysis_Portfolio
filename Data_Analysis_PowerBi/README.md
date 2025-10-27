@@ -17,3 +17,7 @@ Analyze average temperature by year and season to understand trends.
 <img width="1416" height="795" alt="image" src="https://github.com/user-attachments/assets/4f697f8d-1d0c-4157-9d6a-d99af0c48459" />
 
 --
+
+## Insights & Findings
+
+The avaerage temperature constantly increased ober time.
