@@ -1,5 +1,3 @@
-<img width="703" height="447" alt="image" src="https://github.com/user-attachments/assets/1038c753-3a74-406a-83fa-eb64fb5f7515" /># Seoul_Temperature_Analysis
-
 ## Introduction
 Welcome to my first report, using PowerBi. This project visualizes the average temperature trends in Seoul, South Korea, over the past 100 years (1924–2023) to identify long-term patterns and evidence of climate change.
 
