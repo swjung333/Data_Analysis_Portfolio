@@ -2,7 +2,7 @@
 Welcome to my first report, using PowerBi. This project visualizes the average temperature trends in Seoul, South Korea, over the past 100 years (1924–2023) to identify long-term patterns and evidence of climate change.
 
 ## Objectives
-Identify the warmest, coldest year over the past 100 years and the average temperature.
+Identify the warmest, coldest year over the past 100 years and their respective temperatures.
 
 Analyze average temperature by year and season to understand trends.
 
