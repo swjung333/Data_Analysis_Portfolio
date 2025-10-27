@@ -20,4 +20,4 @@ Analyze average temperature by year and season to understand trends.
 
 ## Insights & Findings
 
-The avaerage temperature constantly increased ober time.
+The avaerage temperature constantly increased over time.
