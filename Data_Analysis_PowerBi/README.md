@@ -14,7 +14,6 @@ To visualize with graphs, a few changes were made in dataset:
 - **Create new columns**: Created `Month`, `Month Name`, `Year`, `Season` and `Season_Index`. 
 - **Convert the language from Korean to English for readability**: Converted `년월` to `Date` and `년월(℃)` to `Average Temperature(℃)`.
 
-
 ---
 ## Dashboard Page 1
 <img width="1430" height="801" alt="image" src="https://github.com/user-attachments/assets/19ab8613-df62-47ec-96ae-43fd715bed1e" />
@@ -24,7 +23,12 @@ To visualize with graphs, a few changes were made in dataset:
 
 --
 
+## Findings
 
-## Insights & Findings
+The average temperature **steadily increased over time**.
+The average temperature in **autumn was almost always higher** than in spring.
 
-The avaerage temperature constantly increased over time.
+## Conclusion
+
+This analysis shows that it appears to be true how global warming impacts the temperature change in Korea. So we should all pay attention more to how to protect our mother nature for future generation.
+
