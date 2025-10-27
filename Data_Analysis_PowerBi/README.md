@@ -24,11 +24,14 @@ To visualize with graphs, a few changes were made in dataset:
 ---
 
 ## Findings
+The warmest year was 2023, with an average temperature of 14.1 °C, while the coldest year was 1947, with an average temperature of 9.6 °C.
 
-The average temperature **steadily increased over time**.
+The average temperature has **steadily increased over time**.
+
 The average temperature in **autumn was almost always higher** than in spring.
+
 
 ## Conclusion
 
-This analysis shows that it appears to be true how global warming impacts the temperature change in Korea. So we should all pay attention more to how to protect our mother nature for future generation.
+This analysis supports the view that global warming is contributing to rising temperatures in Korea. Therefore, we should all pay closer attention to how we can protect our natural environment for future generations.
 
