@@ -8,7 +8,10 @@ Analyze average temperature by year and season to understand trends.
 
 ## Data Processing & Cleaning
 To visualize with graphs, a few changes were made in dataset:
-* Remove rows & Use First Row as Headers.
+
+- **Remove rows & Use First Row as Headers.**
+- **Standardized gender representation**: Converted `m` to `Men` and `w` to `Women`.
+
 * Remove columns: Removed '지점', '평균최저기온(℃)' and '평균최고기온(℃)'.
 * Create new columns: Created 'Month', ' Month Name', 'Year', 'Season' and 'Season_Index'
 * Convert the language from Korean to English for readability: Converted '년월' to 'Date' and '평균기온(℃)' to 'Average Temperature(℃)'
