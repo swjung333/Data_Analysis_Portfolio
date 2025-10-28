@@ -24,7 +24,7 @@ To visualize with graphs, a few changes were made in dataset:
 ---
 
 ## Findings
-The warmest year was 2023, with an average temperature of 14.1 °C, while the coldest year was 1947, with an average temperature of 9.6 °C.
+The warmest year was **2023**, with an average temperature of **14.1 °C**, while the coldest year was **1947**, with an average temperature of **9.6 °C**.
 
 The average temperature has **steadily increased over time**.
 
